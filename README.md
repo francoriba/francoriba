@@ -22,17 +22,16 @@ Welcome to my GitHub page! My name is Franco and i am currently at my final year
 
 	##### :computer: Programming languages and tools: 
 	<p>
-          <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=francoriba&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" />
+          <img width="50%" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=francoriba&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" />
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://github.com/abrahamcalf/programming-languages-logos/blob/e1be48ad2dffe3e6e0e24fdefa9e740167fb2315/src/cpp/cpp.png"></code>
+  <code><img width="5%" src="https://github.com/abrahamcalf/programming-languages-logos/blob/e1be48ad2dffe3e6e0e24fdefa9e740167fb2315/src/cpp/cpp.png"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%" src="https://github.com/vscode-icons/vscode-icons/blob/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_matlab.svg"></code>
+  <code><img width="5%" src="https://github.com/vscode-icons/vscode-icons/blob/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_matlab.svg"></code>
   <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
   <code><img width="5%" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c.svg"></code>
   <code><img width="5%" src="https://github.com/vscode-icons/vscode-icons/blob/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_assembly.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code></p>
-
