@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/francoriba)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ribaffranco@gmail.com)
 
-Welcome to my GitHub page! My name is Franco and i am currently at my final year of Computer Engineering at the National University of Córdoba, Argentina. 
+Welcome to my GitHub page! My name is Franco and i am currently at my final year of Computer Engineering at the Universidad Nacional de Córdoba, Argentina. 
 
 ####  Things i'm working on :construction: 
 - Getting Computer Engineering Degree.
