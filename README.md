@@ -11,14 +11,14 @@ Welcome to my GitHub page! My name is Franco and i am currently at my final year
 - Getting Computer Engineering Degree.
 - Getting my first job in IT sector.
 - Learning German.
-- Giving my steps in the stock market and criptocurrency trading for personal finances.
-- Lifting 100 Kg on benchpress :muscle:
+- Getting deep level understanding of blockchain.
+- Choosing subject for my thesis  
 
 ####  My skills :ok_hand::
 - Knowledge of GNU Linux distributions
-- Basic knowledge of design patterns
-- Use of VCS (Git and GitHub, GitLab) and CI tools (GitHub Actions, Jenkins) 
-- Knowledge about relational DBMS (MySQL). 
+- Knowledge of design patterns
+- Use of VCS (Git and GitHub, GitLab) and CI tools (GitHub Actions, CircleCI) 
+- Knowledge of relational DBMS (MySQL). 
 
 	##### :computer: Programming languages and tools: 
 	<p>
