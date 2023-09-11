@@ -14,7 +14,7 @@ Welcome to my GitHub page! My name is Franco and i am currently at my final year
 - Getting deep level understanding of blockchain.
 - Choosing subject for my thesis
   
-<img src="[https://github.com/francoriba/francoriba/assets/80439764/f098d5c5-bcc1-49e2-89d1-41cc14af4ef4" alt="software_layers-min](https://github.com/francoriba/francoriba/assets/80439764/a07e4a2d-042c-4653-9638-986f943939db)" width="260">
+<img src="https://github.com/francoriba/francoriba/blob/main/assets/80439764/9d41c3e2-1d9d-424d-b0dd-f880eb0ea75a/software_layers-min.gif" alt="software_layers-min" width="260">
 
 ####  My skills :ok_hand::
 - Knowledge of GNU Linux distributions
