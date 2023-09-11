@@ -12,7 +12,9 @@ Welcome to my GitHub page! My name is Franco and i am currently at my final year
 - Getting my first job in IT sector.
 - Learning German.
 - Getting deep level understanding of blockchain.
-- Choosing subject for my thesis  
+- Choosing subject for my thesis
+  
+![software_layers-min](https://github.com/francoriba/francoriba/assets/80439764/f098d5c5-bcc1-49e2-89d1-41cc14af4ef4)
 
 ####  My skills :ok_hand::
 - Knowledge of GNU Linux distributions
