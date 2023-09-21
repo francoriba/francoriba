@@ -8,11 +8,11 @@
 Welcome to my GitHub page! My name is Franco and i am currently at my final year of Computer Engineering at the Universidad Nacional de Córdoba, Argentina. 
 
 ####  Things i'm working on :construction: 
-- Getting Computer Engineering Degree.
-- Getting my first job in IT sector.
-- Learning German.
+- Currently doing my Software Engineering Intership at Avature.
+- Choosing the subject for my thesis.
 - Getting deep level understanding of blockchain.
-- Choosing subject for my thesis
+- Learning German and improving my English skills.
+- Getting my Computer Engineering Degree.
 
 <img src="https://github.com/francoriba/francoriba/assets/80439764/4b13a0df-03d9-4aaa-962c-80d11992df3e" alt="software_layers-min" width="260">
 
