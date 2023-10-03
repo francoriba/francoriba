@@ -7,14 +7,16 @@
 
 Welcome to my GitHub page! I'm a senior computer engineering student with experience in both high-level and low-level software development. I have knowledge in a wide range of subjects such as electronics, computer architecture, networking, real-time systems, software engineering and more. I'm also passionate about open source projects.
 
+<div>
+  <img src="https://github.com/francoriba/francoriba/assets/80439764/4b13a0df-03d9-4aaa-962c-80d11992df3e" alt="software_layers-min" width="260">
+</div>
+
 ####  Things i'm working on :construction: 
 - Currently doing my Software Engineering Intership at Avature.
 - Choosing the subject for my thesis.
 - Getting my degree in computer engineering at @FCEFyN, UNC
 - Getting deep level understanding of blockchain.
 - Learning German 
-
-<img src="https://github.com/francoriba/francoriba/assets/80439764/4b13a0df-03d9-4aaa-962c-80d11992df3e" alt="software_layers-min" width="260">
 
 ####  My skills :ok_hand::
 - Knowledge of GNU Linux distributions
