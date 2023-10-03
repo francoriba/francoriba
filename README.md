@@ -8,7 +8,7 @@ Welcome to my GitHub page! I'm a senior computer engineering student with experi
 
   <img align=right src="https://github.com/francoriba/francoriba/assets/80439764/4b13a0df-03d9-4aaa-962c-80d11992df3e" alt="software_layers-min" width="260">
   
-#### :briefcase: Working as Software Engineer Intern at [Avature](https://www.instagram.com/lifeatavature/).
+:briefcase: Working as Software Engineer Intern at <a href="https://www.instagram.com/lifeatavature/" target="_blank">Avature</a>.
 
 ####  Things i'm working on :construction: 
 - Choosing the subject for my thesis.
