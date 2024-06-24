@@ -17,6 +17,7 @@ I'm a senior computer engineering student with experience in both high-level and
 - GNU Linux distributions.
 - Knowledge of design patterns.
 - Use of VCS (Git and GitHub, GitLab) and CI tools (GitHub Actions, CircleCI).
+- Docker, docker compse. Kubernetes Basics. AWS basics. 
 - Knowledge of relational DBMS (MySQL). 
 - Losts of other useful stuff i've learned.
  Check some of my projects below 👇🏻
