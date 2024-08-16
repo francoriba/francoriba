@@ -7,8 +7,6 @@ I'm a senior computer engineering student with experience in both high-level and
 
   <img align=right src="https://github.com/francoriba/francoriba/assets/80439764/4b13a0df-03d9-4aaa-962c-80d11992df3e" alt="software_layers-min" width="260">
   
-:briefcase: Software Engineer Intern at <a href="https://www.avature.net/" target="_blank">Avature</a>.
-
 ####  Things i'm working on :construction: 
 - Choosing the subject for my thesis.
 - Getting my degree in computer engineering at @FCEFyN, UNC.
