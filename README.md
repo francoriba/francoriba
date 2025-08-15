@@ -5,6 +5,8 @@
 
 I'm a senior computer engineering student with experience in both high-level and low-level software development. I also have knowledge in a wide range of subjects such as electronics, computer architecture, networking, etc. Currently working as a Software Engineer.
 
+- Working on thesis
+
   <img align=right src="https://github.com/francoriba/francoriba/assets/80439764/4b13a0df-03d9-4aaa-962c-80d11992df3e" alt="software_layers-min" width="260">
 
 ####  Some of my Skills :ok_hand::
