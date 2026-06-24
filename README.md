@@ -7,6 +7,6 @@ I'm a Computer Engineering student currently working on my thesis, focused on ne
 
 I have experience across both high-level and low-level development, with a strong interest in systems, networking, and infrastructure design. My background includes hands-on work with embedded systems, Linux environments, and distributed setups.
 
-I've been working as a Software Engineer since 2023, and recently started contributing to open-source projects.
+Working as a SWE at [@Avature](https://www.avature.net/) since 2023, recently started contributing to open-source projects.
 
-Feel free to explore some of the work I've been involved in 👇
+Feel free to explore some of my work 👇 or contact me.
